@@ -1,3 +1,14 @@
-# angular-ivy-b6hnpx
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-b6hnpx)
+## Installation
+
+```bash
+$ npm install
+```
+
+## Running the app
+
+```bash
+# development
+$ npm run start
+```
+
